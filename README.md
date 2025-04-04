@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gestión de Proyectos
 
 Los proyectos se componen de tareas y las tareas de subtareas, que a su vez, las subtareas pueden tener otras subtareas. Cada una de estas tareas y subtareas tiene un tiempo estimado de duración en días. La siguiente imagen ilustra la estrucutra de un proyecto.
@@ -60,3 +61,8 @@ npm start
 
 Deberian tenes una salida similar a la siguiente por la consola
 ![salida](./img/salida.png)
+=======
+# Ejercicio: Tareas / Complejidad  
+Bicerne Javier  
+Laboratorio de Programación y lenguajes
+>>>>>>> ef67596b73641c141a5f8e523630fcb39accc2a7
